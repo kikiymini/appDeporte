@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906988584480",
+    "project_id": "appdeporte-74383",
+    "storage_bucket": "appdeporte-74383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906988584480:android:a351ca22d1a6ae8fb08645",
+        "android_client_info": {
+          "package_name": "com.example.appdeporte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906988584480-g9umcs7k51d82uko7mjc71641url2515.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMV8k1YvLjNw7uEBei26yhcI41XcpZU6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906988584480-g9umcs7k51d82uko7mjc71641url2515.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
