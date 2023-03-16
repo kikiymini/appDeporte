@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">appDeporte</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="forgotPassword">Olvidate tu contraseña?</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="resetPassword">Enviar contraseña</string>
+    <string name="invitation">¿Hasta qué nivel eres capaz de llegar?</string>
+    <string name="acept">He leído y acepto los</string>
+    <string name="terms">términos y condiciones de uso</string>
+    <string name="empty_email">Introduce un mail plis</string>
+    <string name="invalid_email">escribí bien el mail!</string>
+    <string name="google">GOOGLE</string>
+    <string name="facebook">FACEBOOK</string>
 </resources>
